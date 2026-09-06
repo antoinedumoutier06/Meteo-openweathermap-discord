@@ -24,7 +24,7 @@ Il permet d'obtenir la météo en temps réel, les prévisions sur 7 jours et de
 * Un bot Discord configuré sur le [Discord Developer Portal](https://discord.com/developers/applications) *(avec les Privileged Gateway Intents activés)*.
 
 ### 2. Cloner et configurer
-1. Clone le dépôt
-2. Configurer le appsettings.json avec vos clés.
-3. Installer les dépendances présentes dans le .cspro avec "dotnet build" dans le terminal.
-4. Lancer l'application "dotnet run" dans le terminal.
+1. Clonez le dépôt.
+2. Configurez le appsettings.json avec vos clés.
+3. Installez les dépendances présentes dans le .csproj avec **`dotnet build`** dans le terminal.
+4. Lancez l'application avec **`dotnet run`** dans le terminal.
